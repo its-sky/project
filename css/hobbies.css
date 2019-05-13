@@ -1,0 +1,15 @@
+ul{
+  list-style-type: circle;
+}
+
+mark{
+  font-style: italic;
+}
+
+li{
+  font-size: 20px;
+}
+
+h1{
+  color: dodgerblue;
+}
